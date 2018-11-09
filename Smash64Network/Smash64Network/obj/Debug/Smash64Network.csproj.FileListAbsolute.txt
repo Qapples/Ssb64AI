@@ -6,3 +6,11 @@ C:\Users\Scotty\Source\Repos\Smash64Network\Smash64Network\bin\Debug\Smash64Netw
 C:\Users\Scotty\Source\Repos\Smash64Network\Smash64Network\obj\Debug\Smash64Network.exe
 C:\Users\Scotty\Source\Repos\Smash64Network\Smash64Network\obj\Debug\Smash64Network.pdb
 C:\Users\Scotty\Source\Repos\Smash64Network\Smash64Network\bin\Debug\VAMemory.dll
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\bin\Debug\Smash64Network.exe.config
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\bin\Debug\Smash64Network.exe
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\bin\Debug\Smash64Network.pdb
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\bin\Debug\VAMemory.dll
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\obj\Debug\Smash64Network.csprojResolveAssemblyReference.cache
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\obj\Debug\Smash64Network.csproj.CoreCompileInputs.cache
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\obj\Debug\Smash64Network.exe
+C:\Users\Scotty\Documents\GitHub\ssb64AI\Smash64Network\Smash64Network\obj\Debug\Smash64Network.pdb

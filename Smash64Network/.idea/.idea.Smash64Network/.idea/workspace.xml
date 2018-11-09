@@ -32,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2385" />
+          <entry key="cs" value="2597" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2385" />
+          <entry key="C#" value="2597" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -45,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Smash64Network/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+            <state relative-caret-position="1840">
+              <caret line="115" column="58" selection-start-line="115" selection-start-column="58" selection-end-line="115" selection-end-column="59" />
               <folding>
                 <marker date="1541797420605" expanded="true" signature="6:109" ph="..." />
                 <marker date="1541797420605" expanded="true" signature="135:5168" ph="{...}" />
@@ -67,23 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="721">
+              <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
               <folding>
-                <marker date="1541725204708" expanded="false" signature="7:65" ph="..." />
-                <marker date="1541725204708" expanded="true" signature="90:2368" ph="{...}" />
-                <marker date="1541725204708" expanded="true" signature="118:2366" ph="{...}" />
-                <marker date="1541725204708" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
-                <marker date="1541725204708" expanded="true" signature="537:663" ph="{...}" />
-                <marker date="1541725204708" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
-                <marker date="1541725204708" expanded="true" signature="984:1247" ph="/// Generate new traits. ... " />
-                <marker date="1541725204708" expanded="true" signature="1365:1560" ph="{...}" />
-                <marker date="1541725204708" expanded="true" signature="1416:1550" ph="{...}" />
-                <marker date="1541725204708" expanded="true" signature="1570:1771" ph="/// Get difference between current damage and previous damage ... " />
-                <marker date="1541725204708" expanded="true" signature="1904:2203" ph="/// Get difference between player one and player two position  ... " />
+                <marker date="1541798948125" expanded="true" signature="6:64" ph="..." />
+                <marker date="1541798948125" expanded="true" signature="90:2551" ph="{...}" />
+                <marker date="1541798948125" expanded="true" signature="118:2549" ph="{...}" />
+                <marker date="1541798948125" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
+                <marker date="1541798948125" expanded="true" signature="537:663" ph="{...}" />
+                <marker date="1541798948125" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
+                <marker date="1541798948125" expanded="true" signature="997:1260" ph="/// Generate new traits. ... " />
+                <marker date="1541798948125" expanded="true" signature="1378:1573" ph="{...}" />
+                <marker date="1541798948125" expanded="true" signature="1429:1563" ph="{...}" />
+                <marker date="1541798948125" expanded="true" signature="1583:1840" ph="/// Get difference between current damage and previous damage ... " />
+                <marker date="1541798948125" expanded="true" signature="1991:2386" ph="/// Get difference between player one and player two position  ... " />
               </folding>
             </state>
           </provider>
@@ -92,21 +92,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Smash64Network/AttackTrait.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+            <state relative-caret-position="1024">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
               <folding>
-                <marker date="1541797420557" expanded="false" signature="6:30" ph="..." />
-                <marker date="1541797420557" expanded="true" signature="56:3803" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="96:3534" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="452:644" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
-                <marker date="1541797420557" expanded="true" signature="683:1485" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="1503:1719" ph="/// Determines whenever trait is active ... " />
-                <marker date="1541797420557" expanded="true" signature="1780:3148" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="1816:3138" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="3166:3324" ph="/// Write the action assigned to the trait to Bizhawk ... " />
-                <marker date="1541797420557" expanded="true" signature="3373:3528" ph="{...}" />
-                <marker date="1541797420557" expanded="true" signature="3544:3615" ph="/// Actions that involve attacking ... " />
-                <marker date="1541797420557" expanded="true" signature="3638:3801" ph="{...}" />
+                <marker date="1541798947921" expanded="false" signature="6:30" ph="..." />
+                <marker date="1541798947921" expanded="true" signature="56:3741" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="96:3380" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="445:637" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+                <marker date="1541798947921" expanded="true" signature="676:1443" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="1453:1669" ph="/// Determines whenever trait is active ... " />
+                <marker date="1541798947921" expanded="true" signature="1730:3001" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="1766:2991" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="3011:3169" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+                <marker date="1541798947921" expanded="true" signature="3218:3374" ph="{...}" />
+                <marker date="1541798947921" expanded="true" signature="3386:3457" ph="/// Actions that involve attacking ... " />
+                <marker date="1541798947921" expanded="true" signature="3480:3739" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,23 +115,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Smash64Network/EvadeTrait.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state>
+              <caret selection-end-line="128" selection-end-column="1" />
               <folding>
-                <marker date="1541797420673" expanded="false" signature="6:30" ph="..." />
-                <marker date="1541797420673" expanded="true" signature="56:4131" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="95:3511" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="450:642" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
-                <marker date="1541797420673" expanded="true" signature="680:1480" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="1498:1714" ph="/// Determines whenever trait is active ... " />
-                <marker date="1541797420673" expanded="true" signature="1775:3147" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="1811:3137" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="3165:3305" ph="/// Write the action assigned to the trait to Bizhawk ... " />
-                <marker date="1541797420673" expanded="true" signature="3354:3505" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="3521:3591" ph="/// Actions that involve movement ... " />
-                <marker date="1541797420673" expanded="true" signature="3613:3678" ph="{...}" />
-                <marker date="1541797420673" expanded="true" signature="3684:3773" ph="/// All the (important) states a character can be in ... " />
-                <marker date="1541797420673" expanded="true" signature="3796:4129" ph="{...}" />
+                <marker date="1541798948255" expanded="false" signature="6:30" ph="..." />
+                <marker date="1541798948255" expanded="true" signature="56:4105" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="95:3353" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="443:635" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+                <marker date="1541798948255" expanded="true" signature="673:1438" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="1448:1664" ph="/// Determines whenever trait is active ... " />
+                <marker date="1541798948255" expanded="true" signature="1725:2996" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="1761:2986" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="3006:3146" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+                <marker date="1541798948255" expanded="true" signature="3195:3347" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="3359:3429" ph="/// Actions that involve movement ... " />
+                <marker date="1541798948255" expanded="true" signature="3451:3556" ph="{...}" />
+                <marker date="1541798948255" expanded="true" signature="3562:3651" ph="/// All the (important) states a character can be in ... " />
+                <marker date="1541798948255" expanded="true" signature="3674:4103" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -140,11 +140,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Smash64Network/ITrait.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="304">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
-                <marker date="1541723216877" expanded="true" signature="41:422" ph="{...}" />
-                <marker date="1541723216877" expanded="true" signature="71:420" ph="{...}" />
+                <marker date="1541798948178" expanded="true" signature="42:423" ph="{...}" />
+                <marker date="1541798948178" expanded="true" signature="72:421" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -170,11 +170,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Smash64Network/ITrait.cs" />
-        <option value="$PROJECT_DIR$/Smash64Network/ValueGet.cs" />
-        <option value="$PROJECT_DIR$/Smash64Network/EvadeTrait.cs" />
-        <option value="$PROJECT_DIR$/Smash64Network/AttackTrait.cs" />
         <option value="$PROJECT_DIR$/Smash64Network/Program.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/AttackTrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/ITrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/EvadeTrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/ValueGet.cs" />
       </list>
     </option>
   </component>
@@ -275,12 +275,12 @@
       <workItem from="1540780071197" duration="3443000" />
       <workItem from="1540866354188" duration="3754000" />
       <workItem from="1541721517299" duration="4239000" />
-      <workItem from="1541725804648" duration="2659000" />
+      <workItem from="1541725804648" duration="3553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14095000" />
+    <option name="totallyTimeSpent" value="14989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,83 +368,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Smash64Network/ITrait.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="304">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
-            <marker date="1541723216877" expanded="true" signature="41:422" ph="{...}" />
-            <marker date="1541723216877" expanded="true" signature="71:420" ph="{...}" />
+            <marker date="1541798948178" expanded="true" signature="42:423" ph="{...}" />
+            <marker date="1541798948178" expanded="true" signature="72:421" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Smash64Network/EvadeTrait.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state>
+          <caret selection-end-line="128" selection-end-column="1" />
           <folding>
-            <marker date="1541797420673" expanded="false" signature="6:30" ph="..." />
-            <marker date="1541797420673" expanded="true" signature="56:4131" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="95:3511" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="450:642" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
-            <marker date="1541797420673" expanded="true" signature="680:1480" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="1498:1714" ph="/// Determines whenever trait is active ... " />
-            <marker date="1541797420673" expanded="true" signature="1775:3147" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="1811:3137" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="3165:3305" ph="/// Write the action assigned to the trait to Bizhawk ... " />
-            <marker date="1541797420673" expanded="true" signature="3354:3505" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="3521:3591" ph="/// Actions that involve movement ... " />
-            <marker date="1541797420673" expanded="true" signature="3613:3678" ph="{...}" />
-            <marker date="1541797420673" expanded="true" signature="3684:3773" ph="/// All the (important) states a character can be in ... " />
-            <marker date="1541797420673" expanded="true" signature="3796:4129" ph="{...}" />
+            <marker date="1541798948255" expanded="false" signature="6:30" ph="..." />
+            <marker date="1541798948255" expanded="true" signature="56:4105" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="95:3353" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="443:635" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+            <marker date="1541798948255" expanded="true" signature="673:1438" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="1448:1664" ph="/// Determines whenever trait is active ... " />
+            <marker date="1541798948255" expanded="true" signature="1725:2996" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="1761:2986" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="3006:3146" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+            <marker date="1541798948255" expanded="true" signature="3195:3347" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="3359:3429" ph="/// Actions that involve movement ... " />
+            <marker date="1541798948255" expanded="true" signature="3451:3556" ph="{...}" />
+            <marker date="1541798948255" expanded="true" signature="3562:3651" ph="/// All the (important) states a character can be in ... " />
+            <marker date="1541798948255" expanded="true" signature="3674:4103" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Smash64Network/AttackTrait.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+        <state relative-caret-position="1024">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
           <folding>
-            <marker date="1541797420557" expanded="false" signature="6:30" ph="..." />
-            <marker date="1541797420557" expanded="true" signature="56:3803" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="96:3534" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="452:644" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
-            <marker date="1541797420557" expanded="true" signature="683:1485" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="1503:1719" ph="/// Determines whenever trait is active ... " />
-            <marker date="1541797420557" expanded="true" signature="1780:3148" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="1816:3138" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="3166:3324" ph="/// Write the action assigned to the trait to Bizhawk ... " />
-            <marker date="1541797420557" expanded="true" signature="3373:3528" ph="{...}" />
-            <marker date="1541797420557" expanded="true" signature="3544:3615" ph="/// Actions that involve attacking ... " />
-            <marker date="1541797420557" expanded="true" signature="3638:3801" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <marker date="1541725204708" expanded="false" signature="7:65" ph="..." />
-            <marker date="1541725204708" expanded="true" signature="90:2368" ph="{...}" />
-            <marker date="1541725204708" expanded="true" signature="118:2366" ph="{...}" />
-            <marker date="1541725204708" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
-            <marker date="1541725204708" expanded="true" signature="537:663" ph="{...}" />
-            <marker date="1541725204708" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
-            <marker date="1541725204708" expanded="true" signature="984:1247" ph="/// Generate new traits. ... " />
-            <marker date="1541725204708" expanded="true" signature="1365:1560" ph="{...}" />
-            <marker date="1541725204708" expanded="true" signature="1416:1550" ph="{...}" />
-            <marker date="1541725204708" expanded="true" signature="1570:1771" ph="/// Get difference between current damage and previous damage ... " />
-            <marker date="1541725204708" expanded="true" signature="1904:2203" ph="/// Get difference between player one and player two position  ... " />
+            <marker date="1541798947921" expanded="false" signature="6:30" ph="..." />
+            <marker date="1541798947921" expanded="true" signature="56:3741" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="96:3380" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="445:637" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+            <marker date="1541798947921" expanded="true" signature="676:1443" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="1453:1669" ph="/// Determines whenever trait is active ... " />
+            <marker date="1541798947921" expanded="true" signature="1730:3001" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="1766:2991" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="3011:3169" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+            <marker date="1541798947921" expanded="true" signature="3218:3374" ph="{...}" />
+            <marker date="1541798947921" expanded="true" signature="3386:3457" ph="/// Actions that involve attacking ... " />
+            <marker date="1541798947921" expanded="true" signature="3480:3739" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Smash64Network/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        <state relative-caret-position="1840">
+          <caret line="115" column="58" selection-start-line="115" selection-start-column="58" selection-end-line="115" selection-end-column="59" />
           <folding>
             <marker date="1541797420605" expanded="true" signature="6:109" ph="..." />
             <marker date="1541797420605" expanded="true" signature="135:5168" ph="{...}" />
@@ -457,6 +437,26 @@
             <marker date="1541797420605" expanded="true" signature="3218:3665" ph="{...}" />
             <marker date="1541797420605" expanded="true" signature="3778:5136" ph="{...}" />
             <marker date="1541797420605" expanded="true" signature="4336:4758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="58" column="55" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+          <folding>
+            <marker date="1541798948125" expanded="true" signature="6:64" ph="..." />
+            <marker date="1541798948125" expanded="true" signature="90:2551" ph="{...}" />
+            <marker date="1541798948125" expanded="true" signature="118:2549" ph="{...}" />
+            <marker date="1541798948125" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
+            <marker date="1541798948125" expanded="true" signature="537:663" ph="{...}" />
+            <marker date="1541798948125" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
+            <marker date="1541798948125" expanded="true" signature="997:1260" ph="/// Generate new traits. ... " />
+            <marker date="1541798948125" expanded="true" signature="1378:1573" ph="{...}" />
+            <marker date="1541798948125" expanded="true" signature="1429:1563" ph="{...}" />
+            <marker date="1541798948125" expanded="true" signature="1583:1840" ph="/// Get difference between current damage and previous damage ... " />
+            <marker date="1541798948125" expanded="true" signature="1991:2386" ph="/// Get difference between player one and player two position  ... " />
           </folding>
         </state>
       </provider>
