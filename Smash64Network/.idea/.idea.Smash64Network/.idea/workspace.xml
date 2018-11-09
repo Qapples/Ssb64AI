@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dbc8c27-2880-4f0b-b6e0-edaf7c8fcd5d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="774790737">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2385" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2385" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Smash64Network/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+              <folding>
+                <marker date="1541797420605" expanded="true" signature="6:109" ph="..." />
+                <marker date="1541797420605" expanded="true" signature="135:5168" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="155:5166" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="208:5160" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="1269:5150" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="2195:3757" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="2262:3687" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="2457:3046" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="3218:3665" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="3778:5136" ph="{...}" />
+                <marker date="1541797420605" expanded="true" signature="4336:4758" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+              <folding>
+                <marker date="1541725204708" expanded="false" signature="7:65" ph="..." />
+                <marker date="1541725204708" expanded="true" signature="90:2368" ph="{...}" />
+                <marker date="1541725204708" expanded="true" signature="118:2366" ph="{...}" />
+                <marker date="1541725204708" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
+                <marker date="1541725204708" expanded="true" signature="537:663" ph="{...}" />
+                <marker date="1541725204708" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
+                <marker date="1541725204708" expanded="true" signature="984:1247" ph="/// Generate new traits. ... " />
+                <marker date="1541725204708" expanded="true" signature="1365:1560" ph="{...}" />
+                <marker date="1541725204708" expanded="true" signature="1416:1550" ph="{...}" />
+                <marker date="1541725204708" expanded="true" signature="1570:1771" ph="/// Get difference between current damage and previous damage ... " />
+                <marker date="1541725204708" expanded="true" signature="1904:2203" ph="/// Get difference between player one and player two position  ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Smash64Network/AttackTrait.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+              <folding>
+                <marker date="1541797420557" expanded="false" signature="6:30" ph="..." />
+                <marker date="1541797420557" expanded="true" signature="56:3803" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="96:3534" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="452:644" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+                <marker date="1541797420557" expanded="true" signature="683:1485" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="1503:1719" ph="/// Determines whenever trait is active ... " />
+                <marker date="1541797420557" expanded="true" signature="1780:3148" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="1816:3138" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="3166:3324" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+                <marker date="1541797420557" expanded="true" signature="3373:3528" ph="{...}" />
+                <marker date="1541797420557" expanded="true" signature="3544:3615" ph="/// Actions that involve attacking ... " />
+                <marker date="1541797420557" expanded="true" signature="3638:3801" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Smash64Network/EvadeTrait.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1541797420673" expanded="false" signature="6:30" ph="..." />
+                <marker date="1541797420673" expanded="true" signature="56:4131" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="95:3511" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="450:642" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+                <marker date="1541797420673" expanded="true" signature="680:1480" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="1498:1714" ph="/// Determines whenever trait is active ... " />
+                <marker date="1541797420673" expanded="true" signature="1775:3147" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="1811:3137" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="3165:3305" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+                <marker date="1541797420673" expanded="true" signature="3354:3505" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="3521:3591" ph="/// Actions that involve movement ... " />
+                <marker date="1541797420673" expanded="true" signature="3613:3678" ph="{...}" />
+                <marker date="1541797420673" expanded="true" signature="3684:3773" ph="/// All the (important) states a character can be in ... " />
+                <marker date="1541797420673" expanded="true" signature="3796:4129" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Smash64Network/ITrait.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <marker date="1541723216877" expanded="true" signature="41:422" ph="{...}" />
+                <marker date="1541723216877" expanded="true" signature="71:420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>damageCurrent2</find>
+      <find>sortedAttacktrait</find>
+      <find>sortedEvadetrait</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Smash64Network/ITrait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Smash64Network/EvadeTrait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Smash64Network/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Smash64Network/AttackTrait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E4200C-CDA7-4037-B5FC-8C34C9135930/f8/0e27e77f/Double.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Smash64Network/ITrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/ValueGet.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/EvadeTrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/AttackTrait.cs" />
+        <option value="$PROJECT_DIR$/Smash64Network/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Smash64Network" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Smash64Network" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Smash64Network" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Smash64Network.sln" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Smash64Network/bin/Debug/Smash64Network.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Smash64Network/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Smash64Network/Smash64Network.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dbc8c27-2880-4f0b-b6e0-edaf7c8fcd5d" name="Default Changelist" comment="" />
+      <created>1540780066787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540780066787</updated>
+      <workItem from="1540780071197" duration="3443000" />
+      <workItem from="1540866354188" duration="3754000" />
+      <workItem from="1541721517299" duration="4239000" />
+      <workItem from="1541725804648" duration="2659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14095000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.07249467" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.06399132" />
+      <window_info anchor="bottom" id="NuGet" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.14967462" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.071428575" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.06399132" />
+      <window_info anchor="bottom" id="NuGet" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E4200C-CDA7-4037-B5FC-8C34C9135930/f8/0e27e77f/Double.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200">
+          <caret line="111" column="29" lean-forward="true" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/ITrait.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <marker date="1541723216877" expanded="true" signature="41:422" ph="{...}" />
+            <marker date="1541723216877" expanded="true" signature="71:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/EvadeTrait.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1541797420673" expanded="false" signature="6:30" ph="..." />
+            <marker date="1541797420673" expanded="true" signature="56:4131" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="95:3511" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="450:642" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+            <marker date="1541797420673" expanded="true" signature="680:1480" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="1498:1714" ph="/// Determines whenever trait is active ... " />
+            <marker date="1541797420673" expanded="true" signature="1775:3147" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="1811:3137" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="3165:3305" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+            <marker date="1541797420673" expanded="true" signature="3354:3505" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="3521:3591" ph="/// Actions that involve movement ... " />
+            <marker date="1541797420673" expanded="true" signature="3613:3678" ph="{...}" />
+            <marker date="1541797420673" expanded="true" signature="3684:3773" ph="/// All the (important) states a character can be in ... " />
+            <marker date="1541797420673" expanded="true" signature="3796:4129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/AttackTrait.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+          <folding>
+            <marker date="1541797420557" expanded="false" signature="6:30" ph="..." />
+            <marker date="1541797420557" expanded="true" signature="56:3803" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="96:3534" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="452:644" ph="/// Generate all the random values used to determine if the trait is activated or not ... " />
+            <marker date="1541797420557" expanded="true" signature="683:1485" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="1503:1719" ph="/// Determines whenever trait is active ... " />
+            <marker date="1541797420557" expanded="true" signature="1780:3148" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="1816:3138" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="3166:3324" ph="/// Write the action assigned to the trait to Bizhawk ... " />
+            <marker date="1541797420557" expanded="true" signature="3373:3528" ph="{...}" />
+            <marker date="1541797420557" expanded="true" signature="3544:3615" ph="/// Actions that involve attacking ... " />
+            <marker date="1541797420557" expanded="true" signature="3638:3801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/ValueGet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <marker date="1541725204708" expanded="false" signature="7:65" ph="..." />
+            <marker date="1541725204708" expanded="true" signature="90:2368" ph="{...}" />
+            <marker date="1541725204708" expanded="true" signature="118:2366" ph="{...}" />
+            <marker date="1541725204708" expanded="true" signature="133:437" ph="/// Writes to the stream and returns what was read in the stream.  ... " />
+            <marker date="1541725204708" expanded="true" signature="537:663" ph="{...}" />
+            <marker date="1541725204708" expanded="true" signature="673:852" ph="/// Gets all the values under the enum &quot;States&quot; and selects a random one ... " />
+            <marker date="1541725204708" expanded="true" signature="984:1247" ph="/// Generate new traits. ... " />
+            <marker date="1541725204708" expanded="true" signature="1365:1560" ph="{...}" />
+            <marker date="1541725204708" expanded="true" signature="1416:1550" ph="{...}" />
+            <marker date="1541725204708" expanded="true" signature="1570:1771" ph="/// Get difference between current damage and previous damage ... " />
+            <marker date="1541725204708" expanded="true" signature="1904:2203" ph="/// Get difference between player one and player two position  ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Smash64Network/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding>
+            <marker date="1541797420605" expanded="true" signature="6:109" ph="..." />
+            <marker date="1541797420605" expanded="true" signature="135:5168" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="155:5166" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="208:5160" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="1269:5150" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="2195:3757" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="2262:3687" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="2457:3046" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="3218:3665" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="3778:5136" ph="{...}" />
+            <marker date="1541797420605" expanded="true" signature="4336:4758" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
